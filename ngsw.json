@@ -31,7 +31,9 @@
         "/PWCat/assets/icons/icon-72x72.png",
         "/PWCat/assets/icons/icon-96x96.png"
       ],
-      "patterns": []
+      "patterns": [
+        "https:\\/\\/cataas\\.com\\/.*"
+      ]
     }
   ],
   "dataGroups": [],
